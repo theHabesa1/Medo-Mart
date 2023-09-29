@@ -1,5 +1,5 @@
 {
-  "name": "Hayroo",
+  "name": "medo",
   "version": "1.0.0",
   "description": "A E-commerce website.",
   "main": "app.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/hasan-py/MERN_Stack_Project_Hayroo_Ecommerce"
+    "url": "https://github.com/theHabesa1/Medo-Mart/"
   },
-  "author": "Hasan | https://hasan-py.github.io",
+  "author": "Yared",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/hasan-py/MERN_Stack_Project_Hayroo_Ecommerce/issues"
+    "url": "https://github.com/theHabesa1/Medo-Mart/"
   },
-  "homepage": "https://github.com/hasan-py/MERN_Stack_Project_Hayroo_Ecommerce#readme",
+  "homepage": "https://github.com/theHabesa1/Medo-Mart/",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "braintree": "^3.0.0",
