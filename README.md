@@ -64,10 +64,7 @@ Follow these setps 👇👇
    ![Alt Text](assetREADME.md/networkAccess.png)
 
 
-6. This is the setup for render
-   ![Alt Text](assetREADME.md/renderDeployBackendSetup.png)
-
-7. After all the setup you finished create the web service and It will deploy the project.
+6. After all the setup you finished create the web service and It will deploy the project.
 
 You can deploy frontend into vercel or netlify also. Thanks
 
